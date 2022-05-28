@@ -1,7 +1,8 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Begim</h1>
 <h3 align="center">A passionate frontend developer from Kyrgyzstan</h3>
 
-<img align="right" src="./E1C7.gif" alt="Coding" width="400" />
+<img align="left" src="./E1C7.gif" alt="Coding" width="400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=begim&label=Profile%20views&color=0e75b6&style=flat" alt="begim" /> </p>
 

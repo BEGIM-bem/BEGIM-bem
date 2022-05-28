@@ -1,9 +1,7 @@
 
  
-### Hi, I'm Begim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  <img  alt="GIF" src='./E1C7.gif' 
- width="380" height="220" />
+### Hi, I'm Begim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  <img align="right" alt="GIF" src="./E1C7.gif"  width="380" height="220" />
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=malikimansaparov&label=Views&color=blue&style=plastic" alt="begim" /> </p> 
 
 ## I'm a Frontend Developer!
 <!-- Intemediate level experience in Software Engineer and  
@@ -31,6 +29,8 @@ of experience, working in popular web technologies
 
 
 <br />
+
+
 
 <br/>
 

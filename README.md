@@ -1,30 +1,70 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
-<h1 align="center">Hi 👋, I'm Begim</h1>
-<h3 align="center">A passionate frontend developer from Kyrgyzstan</h3>
+ <img align="right" alt="GIF" src="https://github.com/MalikImansaparov/MalikImansaparov/blob/main/expert-developers.gif" 
+ width="380" height="220" />
+ 
+### Hi, I'm Begim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align="left" src="./E1C7.gif" alt="Coding" width="400" />
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=malikimansaparov&label=Views&color=blue&style=plastic" alt="begim" /> </p> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=begim&label=Profile%20views&color=0e75b6&style=flat" alt="begim" /> </p>
+## I'm a Frontend Developer!
+<!-- Intemediate level experience in Software Engineer and  
+Frontned Mentor, with extensive knowledge, and years  
+of experience, working in popular web technologies
+ -->
+ 
+### 🤝 Connect with me:
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+[<img align="left" alt="begim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="begim | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="begim | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]&nbsp;
 
-- 🔭 I’m currently working on **Social projects**
+### 💻 Tech Stack:
 
-- 📫 How to reach me **zarlykovabegim02@gmail.com**
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5&logoColor=E34F26)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS/SCSS-333333?style=flat&logo=SASS)&nbsp;
+![Material UI](https://img.shields.io/badge/-MUI-333333?style=flat&logo=mui&logoColor=563D7C)&nbsp;
 
-- ⚡ Fun fact **I am Funny**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/begim zarlykova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="begim zarlykova" height="30" width="40" /></a>
-<a href="https://instagram.com/begim_bem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="begim_bem" height="30" width="40" /></a>
-</p>
+<!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E10098)&nbsp;--> 
+<!-- <br />
+### 🛠 Tools: -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<!-- ![Scrum](https://img.shields.io/badge/-Agile-333333?style=flat&logo=agile)&nbsp; -->
+<!-- ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
+![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack)&nbsp;
+![EsLint](https://img.shields.io/badge/-EsLint-333333?style=flat&logo=eslint)&nbsp;
+![Prettier](https://img.shields.io/badge/-Prettier-333333?style=flat&logo=prettier)&nbsp;
+![Webstorm](https://img.shields.io/badge/-Webstorm-333333?style=flat&logo=webstorm&logoColor=ligthblue)&nbsp;
+![VisualStudio](https://img.shields.io/badge/-VisualStudio-333333?style=flat&logo=visualStudio&logoColor=ligthblue)&nbsp; -->
+<!-- ![Chrome](https://img.shields.io/badge/-Chrome-333333?style=flat&logo=google-chrome&logoColor=#C7C4B9)&nbsp; -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=begim&show_icons=true&locale=en&layout=compact" alt="begim" /></p>
+<br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=begim&show_icons=true&locale=en" alt="begim" /></p>
+[![Profile badge](https://www.codewars.com/users/Imansaparov/badges/small)](https://www.codewars.com/users/Imansaparov)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=begim&" alt="begim" /></p>
+<br/>
+<!-- ![snake gif](https://github.com/malikimansaparov/malikimansaparov/blob/output/github-contribution-grid-snake.svg) -->
+
+<!-- ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=malikimansaparov&theme=algolia&layout=compacta&show_icons=true) -->
+
+<table>
+  <tr>
+    <td>
+      <img align="right"  src="https://github-readme-streak-stats.herokuapp.com/?user=malikimansaparov&theme=algolia" alt="Begim's Github stats" />
+    </td>
+    <td>
+      <img height="160em" align="left" alt="Malik's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=malikimansaparov&theme=algolia&layout=compact" />
+    </td>
+  </tr>
+</table>
+
+
+[telegram]: https://t.me/imansaparov
+[instagram]: https://www.instagram.com/m_imansaparov
+[linkedin]: https://www.linkedin.com/in/malik-imansaparov-591a88186/

@@ -20,7 +20,6 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS/SCSS-333333?style=flat&logo=SASS)&nbsp;
 ![Material UI](https://img.shields.io/badge/-MUI-333333?style=flat&logo=mui&logoColor=563D7C)&nbsp;
 
 

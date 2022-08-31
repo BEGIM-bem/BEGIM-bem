@@ -6,6 +6,27 @@
 Welcome to my page! <br/>
 I'm Begim, Frontend developer from   Kyrgyzstan
 
+<ul>
+<li>
+<img src= 'https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png'> 1 Years Experience in Frontend Technologies
+</li>
+<li>
+<img src = 'https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png'> Frontend Enthusiast & Mentor
+</li>
+
+<li>
+<img src = 'https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png'> Frontend Enthusiast & Mentor
+</li> Improving in data structures and algorithms
+
+<li>
+<img src ='https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png'>  I’m currently learning Node.js
+</li>
+
+<li>
+<img src ='https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png'>  I’m currently learning Node.js
+</li>
+
+</ul>
 
 ### 🤝 Connect with me:
 

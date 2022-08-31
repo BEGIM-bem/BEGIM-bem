@@ -25,6 +25,8 @@ I'm Begim, Frontend developer from   Kyrgyzstan
 
 </ul>
 
+<img src ='https://camo.githubusercontent.com/1dffb6a6ad27bc1d0ae25d7e699f69aab8f5352f241770daf62efc1b436c70df/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6965796c397a6d436a4f3462347436716f592f67697068792e676966'/>
+
 ### 🤝 Connect with me:
 
 [<img align="left" alt="begim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

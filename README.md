@@ -3,9 +3,12 @@
 
 ## <img  src ='https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330' width ='50px'  height = '50px' > Hey!  Nice to see you.
 
-<div  display: = flex > 
+
 Welcome to my page! <br/>
 I'm Begim, Frontend developer from   Kyrgyzstan
+
+
+<img   alt="Coding" align = 'left' src ='https://camo.githubusercontent.com/1dffb6a6ad27bc1d0ae25d7e699f69aab8f5352f241770daf62efc1b436c70df/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6965796c397a6d436a4f3462347436716f592f67697068792e676966'/>
 
 <ul>
 <li>
@@ -26,8 +29,7 @@ I'm Begim, Frontend developer from   Kyrgyzstan
 
 </ul>
 
-<img   alt="Coding" src ='https://camo.githubusercontent.com/1dffb6a6ad27bc1d0ae25d7e699f69aab8f5352f241770daf62efc1b436c70df/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6965796c397a6d436a4f3462347436716f592f67697068792e676966'/>
-</div>
+
 ### 🤝 Connect with me:
 
 [<img align="left" alt="begim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

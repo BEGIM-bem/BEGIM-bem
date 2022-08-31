@@ -8,18 +8,18 @@ I'm Begim, Frontend developer from   Kyrgyzstan
 
 <ul>
 <li>
-<img  width ='30px'  height = '30px'  src= 'https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png'> 1 Years Experience in Frontend Technologies
+<img  width ='20px'  height = '20px'  src= 'https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png'> 1 Years Experience in Frontend Technologies
 </li>
 <li>
-<img width ='30px'  height = '30px'  src = 'https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png'> Frontend Enthusiast & Mentor
+<img width ='20px'  height = '20px'  src = 'https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png'> Frontend Enthusiast & Mentor
 </li>
 
 <li>
-<img width ='30px'  height = '30px'  src = 'https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png'> Frontend Enthusiast & Mentor
-</li> Improving in data structures and algorithms
+<img width ='20px'  height = '20px'  src = 'https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png'>   Improving in data structures and algorithms
+</li>
 
 <li>
-<img width ='30px'  height = '30px'  src ='https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png'>  I’m currently learning Node.js
+<img width ='20px'  height = '20px'  src ='https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png'>  I’m currently learning Node.js
 </li>
 
 

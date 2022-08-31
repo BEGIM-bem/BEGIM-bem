@@ -8,23 +8,20 @@ I'm Begim, Frontend developer from   Kyrgyzstan
 
 <ul>
 <li>
-<img src= 'https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png'> 1 Years Experience in Frontend Technologies
+<img  width ='30px'  height = '30px'  src= 'https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png'> 1 Years Experience in Frontend Technologies
 </li>
 <li>
-<img src = 'https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png'> Frontend Enthusiast & Mentor
+<img width ='30px'  height = '30px'  src = 'https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png'> Frontend Enthusiast & Mentor
 </li>
 
 <li>
-<img src = 'https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png'> Frontend Enthusiast & Mentor
+<img width ='30px'  height = '30px'  src = 'https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png'> Frontend Enthusiast & Mentor
 </li> Improving in data structures and algorithms
 
 <li>
-<img src ='https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png'>  I’m currently learning Node.js
+<img width ='30px'  height = '30px'  src ='https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png'>  I’m currently learning Node.js
 </li>
 
-<li>
-<img src ='https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png'>  I’m currently learning Node.js
-</li>
 
 </ul>
 
@@ -41,13 +38,13 @@ I'm Begim, Frontend developer from   Kyrgyzstan
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![Material UI](https://img.shields.io/badge/-MUI-333333?style=flat&logo=mui&logoColor=563D7C)&nbsp;
 ![npm](https://camo.githubusercontent.com/1e50ab849e8c196ea962ac3b966a15924234879eeb85f9dd0e0431e43a145b43/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e504d2d4342333833373f7374796c653d666c61742d737175617265266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465 )
 ![styles-Components](https://camo.githubusercontent.com/a3a32f8641c857c7b7ad06392edb3e88f54fc4f68d956f8105d1eff7447c714a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5374796c65645f436f6d706f6e656e74732d6462373039323f7374796c653d666c61742d737175617265266c6f676f3d7374796c65642d636f6d706f6e656e7473266c6f676f436f6c6f723d7768697465)
 ![heroku](https://camo.githubusercontent.com/f0b95394ffc005b03c6f4fdad0c7acc8e6a4007f5bf1508aa684fffcd1191aa2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4865726f6b752d3433303039383f7374796c653d666c61742d737175617265266c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465)
 ![Git](https://camo.githubusercontent.com/561f3d4fd727fcca82984c91a65eca069ff34a435072158f6947c4ca52370eae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
-![Nodejs](https://camo.githubusercontent.com/425d14e7ceaf18d8bb8e9bf17cd1a270c928c888b9ee4abe84a3bc8a5b3122fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3433383533643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
+
 
 
 

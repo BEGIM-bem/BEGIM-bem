@@ -14,7 +14,7 @@ I'm Begim, Frontend developer from   Kyrgyzstan
 
 <ul>
 <li>
-<img  width ='20px'  height = '20px'  src= 'https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png'> 1 Years Experience in Frontend Technologies
+<img  width ='20px'  height = '20px'  src= 'https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png'> 1.5 Years Experience in Frontend Technologies
 </li>
 <li>
 <img width ='20px'  height = '20px'  src = 'https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png'> Frontend Enthusiast & Mentor
